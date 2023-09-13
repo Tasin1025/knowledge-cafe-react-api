@@ -11,7 +11,6 @@ function App() {
      <Header> </Header>
      <div className='flex'>
      <Blogs></Blogs>
-     
      <Bookmarks></Bookmarks>
      </div>
 
