@@ -4,7 +4,7 @@ import { FiBookmark } from 'react-icons/fi';
 const Blog = ({blog,handleBookmarks}) => {
     const {title,cover,author,author_img,reading_time,posted_date,hashtags} = blog;
     return (
-        <div className='my-10'>
+        <div >
             <img className='w-full max-h-[450px] ' src={cover} alt="" />
             <div className='flex justify-between py-8'>
                 <div className='flex gap-4'>

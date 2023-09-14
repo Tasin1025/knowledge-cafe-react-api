@@ -1,7 +1,7 @@
 [
     {
       "id": "12345",
-      "cover": "https://img.freepik.com/free-photo/top-view-desk-concept-with-coffee_23-2148604923.jpg?w=1060&t=st=1694602508~exp=1694603108~hmac=dab17631276f45b66e8400db058f8670b1553cdf687fcc9aaa898ead65bd3a77",
+      "cover": "../src/assets/images/2.png",
       "title": "The Mysterious Adventure",
       "author": "John Doe",
       "author_img": "https://image.winudf.com/v2/image/eHB4Lnh4di54cHhfc2NyZWVuXzBfMTUyMzcyMDkxNF8wOTk/screen-0.webp?fakeurl=1&type=.webp",
@@ -24,7 +24,7 @@
       "cover": "https://img.freepik.com/premium-photo/top-view-hands-working-laptop-with-copy-space-coffee_23-2148397876.jpg?w=1060",
       "title": "The Haunted Mansion",
       "author": "Sarah Brown",
-      "author_img": "https://example.com/sarahbrown.jpg",
+      "author_img": "../src/assets/images/boy1.png",
       "posted_date": "2023-09-09",
       "reading_time": 40,
       "hashtags": ["#horror", "#ghosts", "#spooky"]
@@ -34,7 +34,7 @@
       "cover": "https://img.freepik.com/premium-photo/photo-office-table-top-view-with-laptop-coffee-cup-smartphone_763111-16075.jpg?w=1060",
       "title": "The Secret Code",
       "author": "Michael Johnson",
-      "author_img": "https://example.com/michaeljohnson.jpg",
+      "author_img": "../src/assets/images/boy2.png",
       "posted_date": "2023-09-08",
       "reading_time": 55,
       "hashtags": ["#mystery", "#codebreaking", "#puzzle"]
@@ -44,7 +44,7 @@
       "cover": "https://img.freepik.com/free-photo/nice-business-desk-black-background_24972-1177.jpg?w=996&t=st=1694602732~exp=1694603332~hmac=4b4431728af6f2d75ba27d979c2d27007d4c7ed0ff8cbb49b1c0b7e876f07b1f",
       "title": "A Tale of Two Worlds",
       "author": "Emily Clark",
-      "author_img": "https://example.com/emilyclark.jpg",
+      "author_img": "../src/assets/images/girl1.jpg",
       "posted_date": "2023-09-07",
       "reading_time": 50,
       "hashtags": ["#fantasy", "#parallelworlds", "#novel"]
@@ -54,7 +54,7 @@
       "cover": "https://img.freepik.com/free-photo/flat-lay-desk-dark-concept-with-copy-space_23-2148459510.jpg?w=996&t=st=1694602595~exp=1694603195~hmac=20521a97932da00318b4b37d9f96b49e54ace049ad396d505f7ff67c35c681be",
       "title": "The Enchanted Forest",
       "author": "Alice Johnson",
-      "author_img": "https://example.com/alicejohnson.jpg",
+      "author_img": "../src/assets/images/girl2.jpg",
       "posted_date": "2023-09-11",
       "reading_time": 30,
       "hashtags": ["#fantasy", "#magic", "#shortstory"]
@@ -62,9 +62,9 @@
     {
       "id": "24680",
       "cover": "https://img.freepik.com/free-photo/flat-lay-desk-dark-concept-with-copy-space_23-2148459508.jpg?w=996&t=st=1694602614~exp=1694603214~hmac=593dc35f4fe838c19d6d1203475758a6f3ff022253e04204ee113f9dd0a19233",
-      "title": "In Search of Lost Treasures",
+      "title": "David Williams",
       "author": "David Williams",
-      "author_img": "https://example.com/davidwilliams.jpg",
+      "author_img": "../src/assets/images/profile.png",
       "posted_date": "2023-09-10",
       "reading_time": 75,
       "hashtags": ["#adventure", "#treasurehunt", "#action"]
