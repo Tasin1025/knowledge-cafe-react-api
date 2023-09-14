@@ -4,7 +4,7 @@
       "cover": "https://img.freepik.com/free-photo/top-view-desk-concept-with-coffee_23-2148604923.jpg?w=1060&t=st=1694602508~exp=1694603108~hmac=dab17631276f45b66e8400db058f8670b1553cdf687fcc9aaa898ead65bd3a77",
       "title": "The Mysterious Adventure",
       "author": "John Doe",
-      "author_img": "https://www.houseofsolo.co.uk/wp-content/uploads/2015/02/bartoszbranka-photographer-glamour-london-sensual-sexy-body-woman-brazilian-model-natural-light-beautiful-03-dayana.jpg",
+      "author_img": "https://image.winudf.com/v2/image/eHB4Lnh4di54cHhfc2NyZWVuXzBfMTUyMzcyMDkxNF8wOTk/screen-0.webp?fakeurl=1&type=.webp",
       "posted_date": "2023-09-13",
       "reading_time": 45,
       "hashtags": ["#mystery", "#adventure", "#fiction"]
@@ -14,30 +14,10 @@
       "cover": "https://img.freepik.com/free-psd/fashion-sale-social-media-banner-social-media-template_237398-226.jpg?w=1060&t=st=1694602547~exp=1694603147~hmac=03049cd8d97c3c94527eab906762b52bd6e39fd614f271a0e4afc78c45e2a1e4",
       "title": "A Journey Through Time",
       "author": "Jane Smith",
-      "author_img": "https://example.com/janesmith.jpg",
+      "author_img": "https://as2.ftcdn.net/v2/jpg/02/04/56/73/1000_F_204567359_GmkBLdaQeRy9J95HGjv7o5DmuFOEedil.jpg",
       "posted_date": "2023-09-12",
       "reading_time": 60,
       "hashtags": ["#sciencefiction", "#time-travel", "#novel"]
-    },
-    {
-      "id": "13579",
-      "cover": "https://img.freepik.com/free-photo/flat-lay-desk-dark-concept-with-copy-space_23-2148459510.jpg?w=996&t=st=1694602595~exp=1694603195~hmac=20521a97932da00318b4b37d9f96b49e54ace049ad396d505f7ff67c35c681be",
-      "title": "The Enchanted Forest",
-      "author": "Alice Johnson",
-      "author_img": "https://example.com/alicejohnson.jpg",
-      "posted_date": "2023-09-11",
-      "reading_time": 30,
-      "hashtags": ["#fantasy", "#magic", "#shortstory"]
-    },
-    {
-      "id": "24680",
-      "cover": "https://img.freepik.com/free-photo/flat-lay-desk-dark-concept-with-copy-space_23-2148459508.jpg?w=996&t=st=1694602614~exp=1694603214~hmac=593dc35f4fe838c19d6d1203475758a6f3ff022253e04204ee113f9dd0a19233",
-      "title": "In Search of Lost Treasures",
-      "author": "David Williams",
-      "author_img": "https://example.com/davidwilliams.jpg",
-      "posted_date": "2023-09-10",
-      "reading_time": 75,
-      "hashtags": ["#adventure", "#treasurehunt", "#action"]
     },
     {
       "id": "98765",
@@ -68,6 +48,26 @@
       "posted_date": "2023-09-07",
       "reading_time": 50,
       "hashtags": ["#fantasy", "#parallelworlds", "#novel"]
+    },
+    {
+      "id": "13579",
+      "cover": "https://img.freepik.com/free-photo/flat-lay-desk-dark-concept-with-copy-space_23-2148459510.jpg?w=996&t=st=1694602595~exp=1694603195~hmac=20521a97932da00318b4b37d9f96b49e54ace049ad396d505f7ff67c35c681be",
+      "title": "The Enchanted Forest",
+      "author": "Alice Johnson",
+      "author_img": "https://example.com/alicejohnson.jpg",
+      "posted_date": "2023-09-11",
+      "reading_time": 30,
+      "hashtags": ["#fantasy", "#magic", "#shortstory"]
+    },
+    {
+      "id": "24680",
+      "cover": "https://img.freepik.com/free-photo/flat-lay-desk-dark-concept-with-copy-space_23-2148459508.jpg?w=996&t=st=1694602614~exp=1694603214~hmac=593dc35f4fe838c19d6d1203475758a6f3ff022253e04204ee113f9dd0a19233",
+      "title": "In Search of Lost Treasures",
+      "author": "David Williams",
+      "author_img": "https://example.com/davidwilliams.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": 75,
+      "hashtags": ["#adventure", "#treasurehunt", "#action"]
     }
   ]
   
